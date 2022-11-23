@@ -1,0 +1,51 @@
+.myBG {
+    height: 90vh;
+    background: url("../assets/images/main.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    letter-spacing: 5px;
+}
+
+.trending {
+    height: auto;
+    background: black;
+    background-size: cover;
+}
+
+.drama {
+    height: auto;
+    background:rgb(33, 33, 33);
+    background-size: cover;
+}
+
+.card {
+    min-height: 450px;
+}
+
+.movieImage{
+    width : 200px;
+    height: auto;
+
+}
+
+.NavLink {
+    font-size:50px;
+}
+
+b {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
